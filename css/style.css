@@ -1,0 +1,19 @@
+.month{
+    margin-bottom: 0;
+    border: 1px solid black;
+    background-color: #f0f0f0;
+}
+
+.month h3{
+    margin: 0;
+    padding: 10px;
+}
+
+.events{
+    display:none;
+    padding: 10px;
+}
+
+.show{
+    display: block;
+}
